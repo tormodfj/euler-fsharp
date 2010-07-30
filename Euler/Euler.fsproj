@@ -40,6 +40,7 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Problem1.fs" />
     <Compile Include="Problem25.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>

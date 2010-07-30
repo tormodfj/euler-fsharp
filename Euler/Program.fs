@@ -1,5 +1,5 @@
-﻿// Learn more about F# at http://fsharp.net
+﻿// Choose problem to solve on the line below
+Problem1.Solve |> ignore
 
-Problem25.Solve |> ignore
-
+// Keep app running until user presses key
 System.Console.ReadKey() |> ignore
