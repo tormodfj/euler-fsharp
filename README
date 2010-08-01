@@ -1,1 +1,4 @@
 F# solutions to Project Euler problems.
+
+Note that these solutions seldom represent the most optimal solution. They are
+merely a result of me practicing the functional programming paradigm.
